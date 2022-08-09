@@ -19,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 ## Implementation
-This project is an implementation of the introductory youtube java course by amigoscode
+This project is an implementation of the introductory youtube java course by amigoscode https://www.youtube.com/watch?v=Qgl81fPcLc8&t=2s
